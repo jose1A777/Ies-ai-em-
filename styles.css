@@ -2,6 +2,7 @@ body {
     color:black;
     background: blue;
     margin: 0px;
+    font-family: "Oswald", sans-serif;
 }
 
 header{
@@ -20,5 +21,5 @@ section{
 }
 
 .chamada-texto{
-    margin-right: 20px;
+    margin-right: 5%;
 }
