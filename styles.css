@@ -1,5 +1,5 @@
 body {
-    color:white;
+    color:black;
     background: blue;
     margin: 0px;
 }
@@ -12,5 +12,5 @@ header{
 }
 
 section{
-    background: rgb(34, 38, 38);
+    background: rgb(169, 169, 169);
 }
