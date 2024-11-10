@@ -1,5 +1,5 @@
 body {
-    color:black;
+    color:white;
     background: blue;
     margin: 0px;
 }
@@ -9,4 +9,8 @@ header{
     padding: 20px;
     font-size: 32px;
     color: white;
+}
+
+section{
+    background: rgb(34, 38, 38);
 }
